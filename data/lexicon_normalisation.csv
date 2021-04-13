@@ -9,3 +9,6 @@ fault,electrical issue
 leaking,leak
 not working,breakdown
 broken,breakdown
+wont start,failure to start
+unserviceable,breakdown
+u/s,breakdown
