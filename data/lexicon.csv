@@ -7,7 +7,7 @@ wont start,observation
 a/c,item
 blowing hot air,observation
 engin,item
-unserviceable,observation
+u/s,observation
 fix,activity
 pump,item
 service,activity
